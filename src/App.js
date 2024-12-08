@@ -1,13 +1,13 @@
 import "./App.css";
-import About from "./components/About";
+// import About from "./components/About";
 import Navbar from "./components/Navbar";
-import TextForm from "./components/TextForm";
+// import TextForm from "./components/TextForm";
 // import Alert from "./components/Alert";
 import React, { useState, useEffect } from "react";
 // import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Footer from "./components/Footer";
 import toast, { Toaster } from "react-hot-toast"; // Import react-hot-toast
-import CommonNumbers from "./components/CommonNumbers";
+// import CommonNumbers from "./components/CommonNumbers";
 import TaskTimer from "./components/TaskTimer";
 
 function App() {
